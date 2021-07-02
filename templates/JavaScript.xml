@@ -1,0 +1,33 @@
+<templateSet group="JavaScript">
+  <template name="ipd" value="import $END$ from &quot;$MODEL$&quot;;" description="import default" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ef" value="export function $NAME$($PARAM$) {&#10;    return $END$&#10;}" description="export function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="function $NAME$($PARAM$) {&#10;    return $END$&#10;}" description="defineFunction" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ipi" value="import {$END$} from &quot;$MODEL$&quot;;" description="import items" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="llog" value="console.log('$filePath$:$line$',$PARAM$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="filePath" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="line" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
