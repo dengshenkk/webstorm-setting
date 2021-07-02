@@ -1,0 +1,58 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="473" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Created by haijinsha At 2021-06-29 16:39:51" />
+      <item value="flush" />
+      <item value="strategy" />
+      <item value="攻略" />
+      <item value="recommend" />
+      <item value="RECOMMENED" />
+      <item value="response" />
+      <item value="respones" />
+      <item value="or its corresponding type declarations" />
+      <item value="merchant Code" />
+      <item value="商户号" />
+      <item value="customize" />
+      <item value="自定义" />
+      <item value="custom" />
+      <item value="demonstration" />
+      <item value="account" />
+      <item value="operation Log" />
+      <item value="form Data" />
+      <item value="-wrap" />
+      <item value="{component_name} {component_name}" />
+      <item value="Create by {user_name} at {create_time}" />
+      <item value="component name" />
+      <item value="simpul" />
+      <item value="simple" />
+      <item value="handle Batch Edit" />
+      <item value="批" />
+      <item value="handle Patch Edit" />
+      <item value="WIP" />
+      <item value="micro" />
+      <item value="micros" />
+      <item value="is Mirco" />
+      <item value="SKIP BECAUSE BROKEN" />
+      <item value="url Reroute Only" />
+      <item value="start Micro App" />
+      <item value="get Token Time" />
+      <item value="handle Micro" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="FRENCH" value="1" />
+        <entry key="DUTCH" value="2" />
+        <entry key="SPANISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625022975115" />
+  </component>
+</application>
